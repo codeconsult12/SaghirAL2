@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ReportCueApp">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 348514573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 348514573 - Field 1180018514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CueID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field CueID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 348514573 - Field 2808675955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field Purchase Journals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 348514573 - Field 2583272393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field General Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 348514573 - Field 3196174509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field Payment Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1922488854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Unposted Cues - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1922488854 - Control 601293450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Unposted Cues - Control PurchaseJournalCueContainer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1922488854 - Control 2808675955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Unposted Cues - Control Purchase Journals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1922488854 - Control 2583272393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Unposted Cues - Control General Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1922488854 - Control 3196174509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Unposted Cues - Control Payment Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2988786487 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>vendor, spend</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Vendors Spend Report - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 2988786487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors Spend Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Vendors Spend Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3700007136 - Action 2363286770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Vendor Spend Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Bus. Role Center Ext - Action Vendor Spend Report - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
